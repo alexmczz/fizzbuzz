@@ -1,2 +1,2 @@
 # fizzbuzz
-fizzbuzz example with c++
+fizzbuzz examples in various languages
